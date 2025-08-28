@@ -165,7 +165,7 @@ a { color:#f39c12; }
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.9); /* Dim the image */
+  background: rgba(0, 0, 0, 0.5); /* Dim the image */
   z-index: -1;
   border-radius: 10px; /* Match parent */
 }
